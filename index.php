@@ -12,7 +12,6 @@
         <div class="button">
             <a href="index.php" class="home-btn">HOME</a>
             <a href="about.php" class="about-btn">ABOUT</a>
-            <a href="contact.php" class="home-btn">CONTACT US</a>
         </div>
         <div class="banner">
         </div>
