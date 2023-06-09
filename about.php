@@ -16,7 +16,7 @@
         </div>
         <div class="banner"></div>
         <div>
-            <h1>My name is Tanveer and I am a student at Vanier College.</h1>
+            <h1>My name is Sk Tanveer Ali and I am a student at Vanier College.</h1>
             <h1>This is the final project for Web Dev Env 1</h1>
         </div>
     </section>
