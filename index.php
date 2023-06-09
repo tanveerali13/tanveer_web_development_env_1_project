@@ -10,12 +10,12 @@
 <body>
     <section class="homepage">
         <div class="button">
-            <a href="index.html" class="home-btn">HOME</a>
-            <a href="about.html" class="about-btn">ABOUT</a>
+            <a href="index.php" class="home-btn">HOME</a>
+            <a href="about.php" class="about-btn">ABOUT</a>
         </div>
         <div class="banner"></div>
         <div>
-            <h1>This is a project for Web Development Environment 1</h1>
+            <h1>This is the final project for Web Development Environment 1</h1>
         </div>
     </section>
 </body>

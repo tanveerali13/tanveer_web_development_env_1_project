@@ -10,13 +10,13 @@
 <body>
     <section class="about">
         <div class="button">
-            <a href="index.html" class="home-btn">HOME</a>
-            <a href="about.html" class="home-btn">ABOUT</a>
+            <a href="index.php" class="home-btn">HOME</a>
+            <a href="about.php" class="home-btn">ABOUT</a>
 
         </div>
         <div class="banner"></div>
         <div>
-            <h1>My name is Tanveer and I am a student at Vanier College.</h1>
+            <h1>My name is Sk Tanveer Ali and I am a student at Vanier College.</h1>
             <h1>This is the final project for Web Dev Env 1</h1>
         </div>
     </section>
