@@ -10,8 +10,8 @@
 <body>
     <section class="about">
         <div class="button">
-            <a href="index.html" class="home-btn">HOME</a>
-            <a href="about.html" class="home-btn">ABOUT</a>
+            <a href="index.php" class="home-btn">HOME</a>
+            <a href="about.php" class="home-btn">ABOUT</a>
 
         </div>
         <div class="banner"></div>
