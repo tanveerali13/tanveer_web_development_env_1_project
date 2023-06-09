@@ -10,8 +10,18 @@
     text-decoration: none;
 }
 
+.about-btn{
+    padding: 15px 20px;
+    background: black;
+    color: white;
+    text-decoration: none;
+}
+
 .banner{
-    background-image: url(assets/images/main-banner.jpg);
+    background: url('../images/main-banner.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 600px;
 }
 
 .banner h1{

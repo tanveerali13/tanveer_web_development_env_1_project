@@ -1,0 +1,29 @@
+.button{
+    display: inline-flex;
+    gap: 50px
+}
+
+.home-btn{
+    padding: 15px 20px;
+    background: black;
+    color: white;
+    text-decoration: none;
+}
+
+.about-btn{
+    padding: 15px 20px;
+    background: black;
+    color: white;
+    text-decoration: none;
+}
+
+.banner{
+    background: url('../images/about-banner.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+}
+
+.banner h1{
+    text-align: center;
+}
